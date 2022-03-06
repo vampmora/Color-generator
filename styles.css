@@ -1,0 +1,19 @@
+.center {
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+
+body {
+  background-color: blue;
+}
+
+button {
+  border-radius: 5px;
+  width: 10rem;
+  height: 6vh;
+  font-weight: 600;
+}
+button:hover {
+  background-color: antiquewhite;
+}
